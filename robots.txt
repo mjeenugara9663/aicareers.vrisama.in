@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aicareers.vrisama.in/sitemap.xml
